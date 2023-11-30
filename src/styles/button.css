@@ -1,0 +1,16 @@
+.blue-primary{
+    border: none;
+    
+    background-color: var(--color-primary);
+
+    padding: .6rem 1.5rem;
+    
+    border-radius: 10px;
+
+    color: white;
+
+    cursor: pointer;
+}
+.blue-primary:hover{
+    background-color: var(--color-primary-hover);
+}
